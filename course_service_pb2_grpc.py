@@ -99,3 +99,4 @@ class CourseService:
             timeout,
             metadata,
             _registered_method=True)
+

@@ -38,3 +38,4 @@ if not _descriptor._USE_C_DESCRIPTORS:
   _globals['_COURSESERVICE']._serialized_start=152
   _globals['_COURSESERVICE']._serialized_end=243
 # @@protoc_insertion_point(module_scope)
+
